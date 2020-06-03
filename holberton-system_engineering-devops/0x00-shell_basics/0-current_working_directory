@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod u+x lll 
-pwd ./0-current_working_directory
+pwd
