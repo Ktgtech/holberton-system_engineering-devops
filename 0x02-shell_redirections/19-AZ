@@ -1,2 +1,2 @@
 #!/bin/bash
-grep [A-C] [Z-E]
+tr -s A-c z-e
